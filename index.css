@@ -1,0 +1,63 @@
+.body{
+  font-family: cantara;
+}
+.container{
+  border: 2px solid darkgray;
+  padding: 10px;
+  margin: 10px auto;
+}
+.div{
+  display: block;
+  unicode-bidi: isolate;
+}
+.color-container{
+  width: 100%;
+}
+.color-panel{
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+.ice-blue{
+  background-color: #BAD1FF;
+  color: white;
+}
+.flamingo-pink{
+  background-color: #FF4079;
+  color: white;
+}
+.smooshed-peas{
+  background-color: #509152;
+  color: white;
+}
+.dusty-rose{
+  background-color: #806768;
+  color: white;
+}
+.font-panel{
+  width: 45%;
+  display: inline-block;
+}
+.montserrat{
+  font-family: montserrat;
+}
+.dm-serif-display{
+  font-family: dm serif display;
+}
+.abril-fatface{
+  font-family: abril fatface;
+}
+.text-panel{
+  display: block;
+  unicode-bidi: isolate;
+}
